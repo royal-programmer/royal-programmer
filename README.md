@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Web-Dev[MERN], Android-Dev and Solving Leetcode Problems**
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royal-programmer&theme=github_dark">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royal-programmer&theme=github_dark">
+<p align=center>
+<img align=center src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark"/>
+<img align=center src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royal-programmer&theme=github_dark"/>
+</p>
 
 <h3>Connect with me:</h3>
 <p align=center>
@@ -18,9 +22,6 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
     height="30" /></a>
 </p>
-
-<img align=right src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark"/>
-<img align=right src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royal-programmer&theme=github_dark"/>
 
 <h3>Portfolio:</h3>
 <p align=center>
