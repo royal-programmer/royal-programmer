@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **Web-Dev[MERN], Android-Dev and Solving Leetcode Problems**
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royal-programmer&theme=github_dark">
+
 <p align=center>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royal-programmer&theme=github_dark">
 <img align=center src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnudas-bluefox&theme=github_dark"/>
 <img align=center src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=royal-programmer&theme=github_dark"/>
 </p>
