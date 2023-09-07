@@ -16,29 +16,29 @@
 
 <h3>Connect with me:</h3>
 <p align=center>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/royal-programmer/" target="blank">
+<a href="https://www.linkedin.com/in/royal-programmer/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     height="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_royalprogrammer.dev/" target="blank">
+<a href="https://www.instagram.com/_royalprogrammer.dev/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
     height="30" /></a>
 </p>
 
 <h3>Portfolio:</h3>
 <p align=center>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22394141/royal-programmer" target="blank">
+  <a href="https://stackoverflow.com/users/22394141/royal-programmer" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
     height="30" /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/royalprogrammer" target="blank">
+  <a href="https://www.kaggle.com/royalprogrammer" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
     height="30" /></a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/royal_programmer" target="blank">
+  <a href="https://www.hackerrank.com/royal_programmer" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
     height="30" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/royal_programmer/" target="blank">
+<a href="https://leetcode.com/royal_programmer/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
     height="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/royal_programmer" target="blank">
+<a href="https://auth.geeksforgeeks.org/user/royal_programmer" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
     height="30" /></a>
 </p>
